@@ -14,6 +14,8 @@ Under development! Frequent changes are expected, we will prepare proper release
 * The first 10 fields of the **samples** template are mandatory
 * All fields of the **mixs** template are required in order to comply to the MIxS standard. In some cases additional infromation might be required - you will be contacted by our curatorial team if that applies to you.
 * Detailed explanation of each field will be added here ASAP.
+* You can add extra fields at the end of both the **mixs** and the **full** template. We will provide a list of environmental paramteres that can be recorded there. You can also include any kind of measurements - if our software cannot recognize the headers, these will be ignored.
 
 ## Template Usage
 * Once the latets version of the GFBio brokerage system for molecular data has been released (planned for beginning of February 2017), you will be able to upload one or more of the templates via the GFBio portal [molecular submission interface](www.gfbio.org/data/submit/molecular).
+* For the moment we recommend to use the full template and fill out as many of the fields as possible (the first 10 are mandatory).
