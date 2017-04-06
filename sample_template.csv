@@ -1,1 +1,1 @@
-"sample_title","taxon_id","sample_description","sequencing_platform","library_strategy","library_source","library_selection","library_layout","nominal_length","forward_read_file_name","forward_read_file_checksum","reverse_read_file_name","reverse_read_file_checksum","checksum_method"
+sample_title;taxon_id;sample_description;sequencing_platform;library_strategy;library_source;library_selection;library_layout;nominal_length;forward_read_file_name;forward_read_file_checksum;reverse_read_file_name;reverse_read_file_checksum;checksum_method
