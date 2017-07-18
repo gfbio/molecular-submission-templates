@@ -9,7 +9,9 @@ Please post questions, help requests or bug reports to the [issue tracker](https
 
 ## Template Description
 
-* You can find three templates in the repository - samples, mixs, full (combination of the previous two). Currently only the [*full template*](https://raw.githubusercontent.com/gfbio/molecular-submission-templates/excel-compatible/full_template.csv) is supported by the GFBio molecular brokerage service.
+* You can find three templates in the repository - samples, mixs, full (combination of the previous two). 
+* Currently **only the [full template](https://raw.githubusercontent.com/gfbio/molecular-submission-templates/excel-compatible/full_template.csv) is supported** by the GFBio molecular brokerage service.
+* Detailed description of the template fields is available [here](https://github.com/gfbio/molecular-submission-templates/wiki/Template-Description).
 
 ## Template Usage
 * You can upload the [*full template*](https://raw.githubusercontent.com/gfbio/molecular-submission-templates/excel-compatible/full_template.csv) via the GFBio [molecular submission interface](www.gfbio.org/data/submit/molecular) to start a molecular submission.
