@@ -3,7 +3,8 @@
 This repository contains csv templates to prepare submission of molecular data to the appropriat archives (ENA,PANGAEA) via the GFBio brokerage service.
 
 ## Status
-*In production use.*
+**In production use.**
+
 Please post questions, help requests or bug reports to the [issue tracker](https://github.com/gfbio/molecular-submission-templates/issues).
 
 ## Template Description
