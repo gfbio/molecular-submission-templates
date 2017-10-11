@@ -17,4 +17,4 @@ Please post questions, help requests or bug reports to the [issue tracker](https
 * You can upload the [*full template*](https://raw.githubusercontent.com/gfbio/molecular-submission-templates/excel-compatible/full_template.csv) via the GFBio [molecular submission interface](www.gfbio.org/data/submit/molecular) to start a molecular submission.
 * We accept either comma (,), tab (\t), or semicolon (;) as field separators, but only choose one and make sure you do not use that character within the content of the fields (e.g. if you spearate the fields wiht a comma, do not use commas in the sample description).
 * Only the first 10 are strictly mandatory for starting the submission. Our curation team will contact you in case problems occur.
-* You can add extra fields at the end of the template.
+* You can add extra fields (i.e. columns) at the end of the template.
