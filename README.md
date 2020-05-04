@@ -1,20 +1,7 @@
-# Molecular Submission Templates
+# Our repository has moved!
 
-This repository contains csv templates to prepare submission of molecular data to the appropriat archives (ENA,PANGAEA) via the GFBio brokerage service.
+The CSV templates for preparing molecular data submissions through GFBio are now maintained at:
 
-## Status
-**In production use.**
+https://gitlab.gwdg.de/gfbio/molecular-submission-templates
 
-Please post questions, help requests or bug reports to the [issue tracker](https://github.com/gfbio/molecular-submission-templates/issues).
-
-## Template Description
-
-* You can find three templates in the repository - samples, mixs, full (combination of the previous two). 
-* Currently **only the [full template](https://raw.githubusercontent.com/gfbio/molecular-submission-templates/excel-compatible/full_template.csv) is supported** by the GFBio molecular brokerage service.
-* Detailed description of the template fields is available [here](https://github.com/gfbio/molecular-submission-templates/wiki/Template-Description).
-
-## Template Usage
-* You can upload the [*full template*](https://raw.githubusercontent.com/gfbio/molecular-submission-templates/excel-compatible/full_template.csv) via the GFBio [molecular submission interface](https://www.gfbio.org/data/submit/molecular) to start a molecular submission.
-* We accept either comma (,), tab (\t), or semicolon (;) as field separators, but only choose one and make sure you do not use that character within the content of the fields (e.g. if you spearate the fields wiht a comma, do not use commas in the sample description).
-* Only the first 10 are strictly mandatory for starting the submission. Our curation team will contact you in case problems occur.
-* You can add extra fields (i.e. columns) at the end of the template.
+Please download the latest version of the template from there or log in to https://submissions.gfbio.org to get a direct link to the latest version.
